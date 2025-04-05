@@ -6,13 +6,17 @@ ktaylor-821-est2023
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Khaliltech2025/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/khaliltech2025/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/khaliltech2025/ticket-lifecycle)
+  - [osTicket: Post-Installation Configuration](https://github.com/Khaliltech2025/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/Khaliltech2025/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Creating Resource Groups, Storage Accounts, and Virtual Machines](https://github.com/khaliltech2025/creating)
-  - [Creating a Remote Desktop Connection With a Virtual Machine](https://github.com/khaliltech2025/rdp)
+  - [Creating Resource Groups, and Storage Accounts](https://github.com/Khaliltech2025/configure-ad)
+  - [Create a Remote Desktop Connection Trough a Virtual Machine](https://github.com/Khaliltech2025/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://www.linkedin.com/in/Ktaylor
+
+[<img align="left" alt="Nemesio | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+
+[linkedin]: https://linkedin.com/in/ktaylor-821-est2023
