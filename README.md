@@ -5,7 +5,7 @@ ktaylor-821-est2023
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/khaliltech2025/osticket-prereqs)
+  - [osTicket: Prerequisites and Installation](https://github.com/Khaliltech2025/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/khaliltech2025/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/khaliltech2025/ticket-lifecycle)
 - <b>Microsoft Azure</b>
