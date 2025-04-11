@@ -9,8 +9,8 @@ ktaylor-821-est2023
   - [osTicket: Post-Installation Configuration](https://github.com/Khaliltech2025/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Khaliltech2025/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Creating Resource Groups, and Storage Accounts](https://github.com/Khaliltech2025/configure-ad)
-  - [Create a Remote Desktop Connection Trough a Virtual Machine](https://github.com/Khaliltech2025/azure-network-protocols)
+  - [Creating Resource Groups, and Storage Accounts](https://github.com/Khaliltech2025/configurergsa-azure)
+  - [Create a Remote Desktop Connection Trough a Virtual Machine](https://github.com/Khaliltech2025/azure-virtual-machine)
 
 <h2>🤳Connect with me:</h2>
 
