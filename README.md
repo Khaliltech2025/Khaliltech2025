@@ -12,7 +12,7 @@ ktaylor-821-est2023
   - [Creating Resource Groups, and Storage Accounts](https://github.com/Khaliltech2025/configurergsa-azure)
   - [Create a Remote Desktop Connection Trough a Virtual Machine](https://github.com/Khaliltech2025/azure-virtual-machine)
  
-  - - <b>Jira Ticketing System</b>
+- <b>Jira Ticketing System</b>
   - [How to Create, Manage, Provide Technical Documentation, and Resolve Tickets](https://github.com/Khaliltech2025/Jira-Ticket/edit/main/README.md)
 
 <h2>🤳Connect with me:</h2>
